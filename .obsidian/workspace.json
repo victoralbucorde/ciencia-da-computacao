@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "366aadc0524d13ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "b790233e7291a07a",
+        "type": "tabs",
+        "dimension": 48.35164835164835,
+        "children": [
+          {
+            "id": "d7d8c8003dd71d15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CIENCIA DA COMPUTACAO/PARADIGMAS DA PROGRAMACAO/Multiparadigma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "87fc556255d68e8b",
+        "type": "tabs",
+        "dimension": 51.64835164835166,
+        "children": [
+          {
+            "id": "4a88be99339c2056",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f0c207c7ea9df0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ec1c3f75385f83e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "522ec288e4069332",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32752288b29a702c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2312b86e693fffde",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 419.5
+  },
+  "right": {
+    "id": "143267f2fe21e828",
+    "type": "split",
+    "children": [
+      {
+        "id": "055a69a97f286a20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6836b377d37cd1a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6a7fe1b56237e72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "acfcb81911d9e97a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8fd611ad13d3a1a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4a88be99339c2056",
+  "lastOpenFiles": [
+    "CIENCIA DA COMPUTACAO/PARADIGMAS DA PROGRAMACAO/Multiparadigma.md",
+    "CIENCIA DA COMPUTACAO/ORGANIZACAO E ARQUITETURA DE COMPUTADORES/Organizacao e arquitetura de computadores.md",
+    "CIENCIA DA COMPUTACAO/MATEMATICA DISCRETA/Matematica discreta.md",
+    "CIENCIA DA COMPUTACAO/INTRODUCAO A CIENCIA DA COMPUTACAO/Introducao a ciencia da computacao.md",
+    "CIENCIA DA COMPUTACAO/ALGEBRA LINEAR/Algebra linear.md",
+    "CIENCIA DA COMPUTACAO/CALCULO/Calculo.md",
+    "CIENCIA DA COMPUTACAO/CIENCIA DE DADOS/Ciencia de dados.md",
+    "CIENCIA DA COMPUTACAO/COMPUTACAO GRAFICA/Computacao grafica.md",
+    "CIENCIA DA COMPUTACAO/INTELIGENCIA ARTIFICIAL/Inteligencia artificial.md",
+    "CIENCIA DA COMPUTACAO/LOGICA DE PROGRAMACAO/Logica de programacao.md",
+    "CIENCIA DA COMPUTACAO/PARADIGMAS DA PROGRAMACAO/Paradigmas de linguagem da  programacao.md",
+    "CIENCIA DA COMPUTACAO/PARADIGMAS DA PROGRAMACAO/Paradigma logico.md",
+    "CIENCIA DA COMPUTACAO/PARADIGMAS DA PROGRAMACAO/Paradigma funcional.md",
+    "CIENCIA DA COMPUTACAO/PROBABILIDADE E ESTATISTICA/Quartil.md",
+    "CIENCIA DA COMPUTACAO/PROBABILIDADE E ESTATISTICA/Probabilidade e estatistica.md",
+    "CIENCIA DA COMPUTACAO/PROBABILIDADE E ESTATISTICA/Mediana.md",
+    "CIENCIA DA COMPUTACAO/PROGRAMACAO PARA WEB/Programacao web.md",
+    "CIENCIA DA COMPUTACAO/SISTEMAS DIGITAIS/Sistemas digitais.md",
+    "CIENCIA DA COMPUTACAO/SISTEMAS OPERACIONAIS/Gerencia de processos e threads.md",
+    "CIENCIA DA COMPUTACAO/SISTEMAS OPERACIONAIS/Sistemas operacionais.md",
+    "CIENCIA DA COMPUTACAO/SISTEMAS OPERACIONAIS/Gerencia de memoria.md",
+    "CIENCIA DA COMPUTACAO/SISTEMAS OPERACIONAIS/Escalonamento Nao-preemptivo.md",
+    "CIENCIA DA COMPUTACAO/TEORIA DA COMPUTACAO/Teoria da computacao.md",
+    "CIENCIA DA COMPUTACAO/Ciencia da computacao.md",
+    "README.md",
+    "CIENCIA DA COMPUTACAO/PARADIGMAS DA PROGRAMACAO/Paradigma orientado a eventos.md",
+    "CIENCIA DA COMPUTACAO/ENGENHARIA DE SOFTWARE",
+    "CIENCIA DA COMPUTACAO/COMPUTACAO GRAFICA",
+    "CIENCIA DA COMPUTACAO/CALCULO",
+    "CIENCIA DA COMPUTACAO/ORGANIZACAO E ARQUITETURA DE COMPUTADORES",
+    "CIENCIA DA COMPUTACAO/ESTRUTURA DE DADOS",
+    "CIENCIA DA COMPUTACAO/BANCO DE DADOS",
+    "CIENCIA DA COMPUTACAO/ALGEBRA LINEAR",
+    "CIENCIA DA COMPUTACAO/MATEMATICA DISCRETA",
+    "CIENCIA DA COMPUTACAO/SISTEMAS DIGITAIS",
+    "CIENCIA DA COMPUTACAO/LOGICA DE PROGRAMACAO"
+  ]
+}

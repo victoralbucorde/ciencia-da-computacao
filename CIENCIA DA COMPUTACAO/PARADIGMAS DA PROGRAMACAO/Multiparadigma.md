@@ -1,0 +1,1 @@
+Em algumas linguagens de programação, dependendo dos recursos oferecidos, é possível programar em mais de um paradigma. Neste caso depende do conhecimento do programador a utilização dos recursos mais adequados dependendo do problema a ser resolvido.
